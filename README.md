@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cknowlden/cknowlden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a Rural Wisconsin Mental Health Awareness website.  I am partnering with the local hospital's psychiatry residency program to address growing suicide rates within the Wisconsin farming community. The website provides statistics and information about suicide prevention, mental health resources, a local farmer appreciation event
 with guest speakers to highlight the importance of mental health awareness, and the ability for farmers and their loved ones to create socializing events to bring their community together.
   https://rural-wisconsin-bf995dbe973e.herokuapp.com/#/
